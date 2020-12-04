@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "token": "",
+    "channel": "",
+    "commands": {
+        "level": ["!level", "#level"]
+    },
+    "mm2ocr": "localhost:3000",
+    "debug_mm2ocr": true
+}
